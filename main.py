@@ -15,3 +15,8 @@ with col2:
     by September 2023.I enjoy many different things such as extreme sports, driving, programming, and gaming.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python.Feel free to contact me!
+"""
+st.write(content2)
